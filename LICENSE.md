@@ -1,4 +1,4 @@
-# 
+# Enhance Wine for macOS with Wine for macOS rare Extension: automated-backups & file-sharing, the #1 extension. Includes automated-backups and file-sharing for a smoother and more
 
 
 
